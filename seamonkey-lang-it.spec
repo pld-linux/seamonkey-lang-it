@@ -27,8 +27,7 @@ Italian resources for SeaMonkey.
 Wloskie pliki jêzykowe dla SeaMonkeya.
 
 %prep
-%setup -q -c -T
-unzip %{SOURCE0}
+%setup -q -c
 unzip -o %{SOURCE1}
 install %{SOURCE2} .
 ./gen-installed-chrome.sh locale chrome/{IT,it-IT,it-unix,enigmail-it-IT}.jar \
