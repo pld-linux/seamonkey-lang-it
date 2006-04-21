@@ -1,5 +1,5 @@
 Summary:	Italian resources for SeaMonkey
-Summary(pl):	Wloskie pliki jêzykowe dla SeaMonkeya
+Summary(pl):	W³oskie pliki jêzykowe dla SeaMonkeya
 Name:		seamonkey-lang-it
 Version:	1.0
 Release:	1
@@ -24,7 +24,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Italian resources for SeaMonkey.
 
 %description -l pl
-Wloskie pliki jêzykowe dla SeaMonkeya.
+W³oskie pliki jêzykowe dla SeaMonkeya.
 
 %prep
 %setup -q -c
