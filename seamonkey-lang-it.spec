@@ -2,7 +2,7 @@
 %define	_reg	IT
 %define	_lare	%{_lang}-%{_reg}
 Summary:	Italian resources for SeaMonkey
-Summary(pl.UTF-8):   Włoskie pliki językowe dla SeaMonkeya
+Summary(pl.UTF-8):	Włoskie pliki językowe dla SeaMonkeya
 Name:		seamonkey-lang-%{_lang}
 Version:	1.1
 Release:	1
