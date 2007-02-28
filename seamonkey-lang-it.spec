@@ -4,12 +4,12 @@
 Summary:	Italian resources for SeaMonkey
 Summary(pl):	W³oskie pliki jêzykowe dla SeaMonkeya
 Name:		seamonkey-lang-%{_lang}
-Version:	1.1
+Version:	1.1.1
 Release:	1
 License:	GPL
 Group:		X11/Applications/Networking
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/seamonkey/releases/%{version}/contrib-localized/seamonkey-%{version}.%{_lare}.langpack.xpi
-# Source0-md5:	5040ee34064b3fc5f050a337a46d85a4
+# Source0-md5:	ccd9c25b3daccc910107ab6e015a7135
 Source1:	http://www.mozilla-enigmail.org/downloads/lang/0.9x/enigmail-%{_lare}-0.9x.xpi
 # Source1-md5:	e6c146cad34b111d1ea1602e06aed0d2
 Source2:	gen-installed-chrome.sh
